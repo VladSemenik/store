@@ -1,0 +1,40 @@
+.wrapp-products-table {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    .close-button {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 10px;
+        right: 10px;
+        border-radius: 50%;
+        background-color: red;
+        color: #fff;
+        font-size: 1.2em;
+        font-family: Arial, Helvetica, sans-serif;
+        outline: none;
+        text-align: center;
+    }
+    .close-button:hover {
+        color: grey;
+        cursor: pointer;
+        transition: 300ms color;
+    }
+    .table {
+        margin: 5%;
+        th, td {
+            padding: .5rem;
+        }
+        tr:first-child {
+            border-bottom: 1px solid #e5e5e5;
+        }
+    }
+}

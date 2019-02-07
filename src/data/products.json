@@ -1,77 +1,82 @@
 [
     {
         "id": 1,
+        "location": [53.916257, 27.586085],
         "products": [{
-                "name":"milk",
-                "description": "fresh milk"
+                "name":"Milk",
+                "description": "Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals."
             },
             {
-                "name":"kvas",
-                "description": "fresh kvas"            
+                "name":"Kvass",
+                "description": "Kvass is a traditional Slavic and Baltic beverage commonly made from rye bread,"            
             },
             {
-                "name":"potato",
-                "description": "fresh potato"
+                "name":"Potato",
+                "description": "Fresh potato"
             }]
     },
     {
         "id": 2,
+        "location": [53.900498, 27.558035],
         "products": [{
-            "name":"milk",
-            "description": "fresh milk"
+            "name":"Milk",
+            "description": "Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals."
         },
         {
-            "name":"kvas",
-            "description": "fresh kvas"            
+            "name":"Kvass",
+            "description": "Kvass is a traditional Slavic and Baltic beverage commonly made from rye bread,"            
         },
         {
-            "name":"potato",
-            "description": "fresh potato"
+            "name":"Potato",
+            "description": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum."
         }]
     },
     {
         "id": 3,
+        "location": [53.890013, 27.555245],
         "products": [{
-                "name":"milk",
-                "description": "fresh milk"
+                "name":"Milk",
+                "description": "Fresh milk"
             },
             {
-                "name":"kvas",
-                "description": "fresh kvas"            
+                "name":"Kvass",
+                "description": "Kvass is a traditional Slavic and Baltic beverage commonly made from rye bread,"            
             },
             {
-                "name":"potato",
-                "description": "fresh potato"
+                "name":"Potato",
+                "description": "Fresh potato"
             }]
     },
     {
         "id": 4,
+        "location": [53.890825, 27.550862],
         "products": [{
-                "name":"milk",
-                "description": "fresh milk"
+                "name":"Milk",
+                "description": "Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals."
             },
             {
-                "name":"kvas",
-                "description": "fresh kvas"            
+                "name":"Kvass",
+                "description": "Kvass is a traditional Slavic and Baltic beverage commonly made from rye bread,"            
             },
             {
-                "name":"potato",
-                "description": "fresh potato"
+                "name":"Potato",
+                "description": "Fresh potato"
             }]
     },
     {
         "id": 5,
+        "location": [53.909793, 27.554644],
         "products": [{
-                "name":"milk",
-                "description": "fresh milk"
+                "name":"Milk",
+                "description": "Fresh milk"
             },
             {
-                "name":"kvas",
-                "description": "fresh kvas"            
+                "name":"Kvass",
+                "description": "Kvass is a traditional Slavic and Baltic beverage commonly made from rye bread,"            
             },
             {
-                "name":"potato",
-                "description": "fresh potato"
+                "name":"Potato",
+                "description": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum."
             }]
     }
 ]
