@@ -1,8 +1,13 @@
 .store-item {
-    border: 1px solid #545756;
+    margin: 5% auto;
     border-radius: 1px;
+    background-color: #fff;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);    
+    a {
+        text-decoration: none;
+    }
 }
 .store-item:hover {
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0px 15px rgba(0, 0, 0, 0.5);
     cursor: pointer;
 }

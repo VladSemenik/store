@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "products": [{
+                "name":"milk",
+                "description": "fresh milk"
+            },
+            {
+                "name":"kvas",
+                "description": "fresh kvas"            
+            },
+            {
+                "name":"potato",
+                "description": "fresh potato"
+            }]
+    },
+    {
+        "id": 2,
+        "products": [{
+            "name":"milk",
+            "description": "fresh milk"
+        },
+        {
+            "name":"kvas",
+            "description": "fresh kvas"            
+        },
+        {
+            "name":"potato",
+            "description": "fresh potato"
+        }]
+    },
+    {
+        "id": 3,
+        "products": [{
+                "name":"milk",
+                "description": "fresh milk"
+            },
+            {
+                "name":"kvas",
+                "description": "fresh kvas"            
+            },
+            {
+                "name":"potato",
+                "description": "fresh potato"
+            }]
+    },
+    {
+        "id": 4,
+        "products": [{
+                "name":"milk",
+                "description": "fresh milk"
+            },
+            {
+                "name":"kvas",
+                "description": "fresh kvas"            
+            },
+            {
+                "name":"potato",
+                "description": "fresh potato"
+            }]
+    },
+    {
+        "id": 5,
+        "products": [{
+                "name":"milk",
+                "description": "fresh milk"
+            },
+            {
+                "name":"kvas",
+                "description": "fresh kvas"            
+            },
+            {
+                "name":"potato",
+                "description": "fresh potato"
+            }]
+    }
+]
